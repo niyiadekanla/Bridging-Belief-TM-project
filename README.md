@@ -354,7 +354,7 @@ MIT License - Use freely for research and non-commercial purposes
 ## 👤 Author
 
 Built for Bridging Beliefs research project  
-Questions? See `docs/TROUBLESHOOTING.md` or email your team.
+Questions? See `docs/TROUBLESHOOTING.md` or email niyiadekanla@gmail.com.
 
 ---
 
